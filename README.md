@@ -14,9 +14,9 @@ RoboWatch App is an android mobile application designed to provide remote contro
 - **Authentication and Sign-Up:** Secure user authentication system that ensures only authorized users can access the app's functionalities. New users can create their accounts securely through a sign-up feature.
 
 ## Some Screenshots
-| Home Monitoring Screen | Control Screen | Scheduled Patrols Screen | Historical Data and Analytics |
-| --- | --- | --- | --- |
-| ![Home Page](https://github.com/Saeb0x/RoboWatch/assets/56490771/805401c2-57f1-4033-b33c-fe2cbcec912c) | ![Control Screen](https://github.com/Saeb0x/RoboWatch/assets/56490771/2cf5d666-972d-4320-9c8d-baad11a9f6e0)| ![Scheduled Patrols Screen](https://github.com/Saeb0x/RoboWatch/assets/56490771/580d5746-d0a3-41be-b82d-a44df07b629c) | ![User Data Log](https://github.com/Saeb0x/RoboWatch/assets/56490771/37e359ce-86a4-4038-b62f-c0b2fb732dc0) |
+| Home Monitoring Screen | Control Screen | Scheduled Patrols Screen | Historical Data and Analytics Screen | Login Screen | Singup Screen |
+| --- | --- | --- | --- | --- | --- |
+| ![Home Page](https://github.com/Saeb0x/RoboWatch/assets/56490771/805401c2-57f1-4033-b33c-fe2cbcec912c) | ![Control Screen](https://github.com/Saeb0x/RoboWatch/assets/56490771/2cf5d666-972d-4320-9c8d-baad11a9f6e0)| ![Scheduled Patrols Screen](https://github.com/Saeb0x/RoboWatch/assets/56490771/580d5746-d0a3-41be-b82d-a44df07b629c) | ![User Data Log](https://github.com/Saeb0x/RoboWatch/assets/56490771/37e359ce-86a4-4038-b62f-c0b2fb732dc0) | ![Login Screen](https://github.com/Saeb0x/RoboWatch/assets/56490771/361ad527-ef23-4ed6-9ed0-af6eab4e7f7c) | ![Signup Screen](https://github.com/Saeb0x/RoboWatch/assets/56490771/998b8f59-7637-4ea2-a7d6-7f63ae2f4fc5) |
 
 ## RoboWatch
 ![RoboWatch](https://github.com/Saeb0x/RoboWatch/assets/56490771/4e359712-13a6-4d4a-95e6-dc75fbcc6289)
