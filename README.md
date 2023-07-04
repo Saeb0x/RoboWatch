@@ -1,5 +1,5 @@
 # RoboWatch
-This repository houses the complete source code for the RoboWatch app, that enables remote control and surveillance of robotic devices. 
+This repository houses the complete source code for the RoboWatch app, which empowers users to remotely control and monitor robotic devices for surveillance purposes.
 
 ## Overview
 RoboWatch App is an android mobile application designed to provide remote control and surveillance capabilities for a robot equipped with a camera. The key goals of the application are to enable real-time video streaming, manual robot control, alerts and notifications based on data received from the robot, and robust monitoring system to closely observe and analyse the robot's performance, enabling us to make informed decisions and enhance its overall effectiveness.
